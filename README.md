@@ -16,10 +16,10 @@ Build status may be one of the following:
 - The location of the builds outputs should be defined under build.output.dir in builder.properties.
 - The mapping between the project ids and their locations should be defined in projects.properties.
 
-###To build the project
+### To build the project
 mvn clean install
 
-###To run the project
+### To run the project
 mvn tomcat7:run
 
 
